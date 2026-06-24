@@ -1,5 +1,5 @@
 # discord-PWA
-A wrapper for the Discord web client as a Progressive Web Application, for use with Chromium based browsers. This project aims to provide a more persistent version of the web client, without the process monitor and other bloat included in the official desktop client.
+A wrapper for the Discord web client as a Progressive Web Application, for use with Chromium based browsers. This project aims to provide a more persistent version of the web client, without the process monitor and other bloat included in the official desktop client. Modified to support light and dark color schemes.
 ## [Click here to Install](https://neverdecaf.github.io/discord-PWA/)
 #### Differences from the web client
 - Opens in a separate window that can be pinned to your taskbar and used/launched independently* from your browser.
